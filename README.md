@@ -1,5 +1,5 @@
 # Reto-11
-# Reto_10
+
 # ¡PYTHON FC!
 
 <details>
